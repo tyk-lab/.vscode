@@ -1,0 +1,7 @@
+{
+    //启动文件扩展名
+    "files.associations": {
+        "*.h": "cpp",
+        "*.tcc": "cpp"
+    }
+}
